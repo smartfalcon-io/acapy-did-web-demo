@@ -9,7 +9,8 @@
       "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
-      "publicKeyBase58": "KffhG9kHCKM48jXsCx2wf47PaXM3L1GwnxSJF3NmvccM4sTJNXjhdvwogLSk"
+      "publicKeyBase58": "KffhG9kHCKM48jXsCx2wf47PaXM3L1GwnxSJF3NmvccM4sTJNXjhdvwogLSk",
+      "publicKeyMultibase": "9ibJ1jTgRCbbmtq9nogfg2sFfCN7o8v9EK1zcZQmFhey"
     }
   ],
   "authentication": [
@@ -17,12 +18,5 @@
   ],
   "assertionMethod": [
     "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1"
-  ],
-  "service": [
-    {
-      "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#agent",
-      "type": "AgentService",
-      "serviceEndpoint": "https://sneha-kolimi.github.io/acapy-did-web-demo"
-    }
   ]
 }
