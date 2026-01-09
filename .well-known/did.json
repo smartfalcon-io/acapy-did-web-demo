@@ -9,7 +9,7 @@
       "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1",
       "type": "Multikey",
       "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
-      "publicKeyMultibase": "9ibJ1jTgRCbbmtq9nogfg2sFfCN7o8v9EK1zcZQmFhey"
+      "publicKeyMultibase": "ATQxuuYxtkevvY9N8u8Ry22jYdp3aLRUBGXH6RWrGPUK"
     }
   ],
   "authentication": [
